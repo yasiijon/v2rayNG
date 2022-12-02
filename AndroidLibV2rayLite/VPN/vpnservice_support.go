@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"log"
-	"net"
+	. "net"
 	"os"
 	"strings"
 	"sync"
